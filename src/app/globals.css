@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h3 {
+    @apply  text-sm;
+}
+
+h5{
+    @apply  text-xl;
+}
+
+/* Button */
+button{
+    @apply py-5  outline-none;
+}
+
+
+/* Scroolbar hide */
+
+.hide-scroolbar::-webkit-scrollbar {
+    display: none;
+}
+
+.active {
+    @apply pb-2 border-b-2 border-b-red-500;
+}
+
+
+/* Order List */
+
+.order-list > div > p, .order-list>div>div>p{
+    @apply text-[12px] font-normal text-gray-300;
+}
+
+.unselectable {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}

@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 fbbeff8365f22366737d67e105806d38c042dd58 Bhuwan Bhurtel <astrofic7@gmail.com> 1704450960 +0545	commit (initial): resolving git
+fbbeff8365f22366737d67e105806d38c042dd58 fbbeff8365f22366737d67e105806d38c042dd58 Bhuwan Bhurtel <astrofic7@gmail.com> 1704450989 +0545	Branch: renamed refs/heads/master to refs/heads/main
+fbbeff8365f22366737d67e105806d38c042dd58 d288a7ff2c86cf245805ea307853c4e447b163fd Bhuwan Bhurtel <astrofic7@gmail.com> 1704451573 +0545	commit (merge): Merge branch 'main' of https://github.com/SA-30/restaurant__app-next
+d288a7ff2c86cf245805ea307853c4e447b163fd b8fb63de76db8e8185e1be9e3182011d37ec1362 Bhuwan Bhurtel <astrofic7@gmail.com> 1704452698 +0545	commit: #11 Ui changed
+b8fb63de76db8e8185e1be9e3182011d37ec1362 62912b84f3f8cee445d7d08e2afa1d7914d3292e Bhuwan Bhurtel <astrofic7@gmail.com> 1704455567 +0545	commit: #11.1 Ui update -login/register page
+62912b84f3f8cee445d7d08e2afa1d7914d3292e f5be786d40c7e80973b9c05c25c8e162f4a1357f Bhuwan Bhurtel <astrofic7@gmail.com> 1704457516 +0545	commit: #11.2 admin orderfood page
+f5be786d40c7e80973b9c05c25c8e162f4a1357f f790beeae829758f6c9ec338220787f435addc72 Bhuwan Bhurtel <astrofic7@gmail.com> 1704463753 +0545	commit: #11.3 admin editMenuItem
+f790beeae829758f6c9ec338220787f435addc72 f864cfe65551ec81277052c6e3fe61440c7590ff Bhuwan Bhurtel <astrofic7@gmail.com> 1704467341 +0545	commit: #11.4 Ui upgrade admin-final
+f864cfe65551ec81277052c6e3fe61440c7590ff 939a98b8332242b96d1691c47aa4433844f88057 Bhuwan Bhurtel <astrofic7@gmail.com> 1704471440 +0545	commit: #11.5 wrapping ui changes and fixes
+939a98b8332242b96d1691c47aa4433844f88057 9eb45e29ed075f4583b4a5131ca4242114ee574c Bhuwan Bhurtel <astrofic7@gmail.com> 1704561226 +0545	commit: #12 Next auth implimentation
+9eb45e29ed075f4583b4a5131ca4242114ee574c fc8798056c42892b0ea6943c7581f9485b925243 Bhuwan Bhurtel <astrofic7@gmail.com> 1704605256 +0545	commit: #12.1 next auth implimentation
+fc8798056c42892b0ea6943c7581f9485b925243 fbd49ebcac7e4725cebf375e185a970f28e49bd0 Bhuwan Bhurtel <astrofic7@gmail.com> 1704684479 +0545	commit: #13 userInfo model
+fbd49ebcac7e4725cebf375e185a970f28e49bd0 50b25a7d0fca35686c202e584dec63c422fe64dc Bhuwan Bhurtel <astrofic7@gmail.com> 1704785285 +0545	commit: #14 isAdmin
+50b25a7d0fca35686c202e584dec63c422fe64dc 4f0f270a5cfbf89a4a10d57f860357a08e8621b6 Bhuwan Bhurtel <astrofic7@gmail.com> 1705208192 +0545	commit: #14 add menu items model,db conn, fetch
+4f0f270a5cfbf89a4a10d57f860357a08e8621b6 aa77dd78511d34bdf89ead24cfe32d8398123855 Bhuwan Bhurtel <astrofic7@gmail.com> 1705289154 +0545	commit: #14.final
